@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/luwa07832/feature-flag-service/internal/store"
+	"github.com/w3gqb6w2ky/qnt-market-data/internal/store"
 )
 
 func TestHealthzReportsOK(t *testing.T) {
